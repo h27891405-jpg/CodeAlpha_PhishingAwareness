@@ -16,7 +16,7 @@ A phishing awareness training presentation, built for the CodeAlpha Cyber Securi
 
 | File | Description |
 |---|---|
-| `Phishing_Awareness_Training.pptx` | The training presentation (7 slides) |
+| `Phishing Awareness Training.pptx` | The training presentation (7 slides) |
 
 ## How to use it
 
